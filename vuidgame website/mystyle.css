@@ -1,0 +1,40 @@
+body {
+ background-color: #2E5266;
+    color:#FFD026;
+    
+}
+div
+{
+     background-color: #9fb1bc;
+    border-color: #d3d0cb;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 25px;
+}
+div.card
+{
+        background-color: #9fb1bc;
+    border-color: #d3d0cb;
+    border-style: solid ;
+    border-width: 5px;
+    border-radius: 25px;
+     display: inline-block;
+    
+}
+div.card-body
+{
+    border-style: hidden;
+        background-color: #6e8898;
+        border-top-style: solid;
+        border-width: 5px;
+    border-radius: 25px;
+    border-color: #d3d0cb;
+        
+    
+}
+img.icon
+{
+   height: 50px;
+    width: 50px;
+      display: inline-block;
+}
